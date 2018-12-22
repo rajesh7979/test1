@@ -8,3 +8,4 @@ if [$? ==0]
 echo -e" print connected"
 then:
 echo -e " not connected"
+This is used for test

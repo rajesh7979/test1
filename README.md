@@ -6,7 +6,8 @@ DB1=$(telnet @hostname@ portnumber <2/dev/extension | awk "{print$2}")
 echo $echo
 if [$? ==0]
 echo -e" print connected"
-then:
+thenfkjpojfpfk'elf;er,f'lwel
+
 echo -e " not connected"
 This is used for test
 kdaldflamf;l

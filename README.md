@@ -10,11 +10,10 @@ thenfkjpojfpfk'elf;er,f'lwel
 
 echo -e " not connected"
 This is used for test
-kdaldflamf;l
-jgughpkpl;
-fcybkjm'll
-;
 
-lkhhjbjlm'l
-lvgh;k;
-,blj;l;ljhh;jljbjjlhjpk
+
+
+
+
+
+
